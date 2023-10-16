@@ -1,0 +1,740 @@
+
+
+
+@media screen and (max-width: 1275px)  {
+
+    .main-up nav {
+        flex-basis: 74%;
+    }
+    .main-up .saller {
+        flex-basis: 100%;
+        display: none;
+    }
+    .cetago h3 {
+        margin-left: -40px;
+    }
+    .main-up nav ul li {
+        margin-right: 20px;
+    }
+    .main-up nav ul li a {
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+
+    .safwana .row {
+        justify-content: center;
+        gap: 20px;
+      }
+    .safwana .col-1-7 {
+        flex-basis: 16%;
+        padding: 18px 5px;
+        margin-bottom: 20px;
+    }
+    .prime-dis-none {
+        display: block;
+    }
+
+/* sign in */
+
+    .prime-shope-area .sing-area {
+        left: 260px;
+        width: 63%;
+    }
+    .prime-shope-area .sing-area form input {
+        padding-right: 45px;
+    }
+    .prime-shope-area .sing-area {
+        padding-bottom: 50px;
+    }
+    
+}
+
+
+
+
+
+@media screen and (max-width: 1094px)  {
+    .main-up .cetago {
+        flex-basis: 70%;
+    }
+    .cetago h3 {
+        font-size: 20px;
+        margin: 0px;
+    }
+    .main-up nav {
+        flex-basis: 70%;
+    }
+    .hero .cart-man {
+        position: absolute;
+        right: 5%;
+        top: -25%;
+    }
+    .main {
+        padding-top: 20px;
+    }
+    .main .row {
+        gap: 10px;
+    }
+    .main .blog-left {
+        flex-basis: 70%;
+    }
+    .main .blog-middle {
+        flex-basis: 70%;
+    }
+    .main .blog-middle .row {
+        justify-content: space-between;
+    }
+    .main .blog-right {
+        flex-basis: 25%;
+    }
+    .blog-right img {
+        height: auto;
+        margin-bottom: 5px;
+    }
+
+    .left-side {
+        flex-basis: 72%;
+    }
+    .right-side {
+        flex-basis: 22%;
+    }
+
+    .hot-deals .char {
+        font-size: 15px;
+    }
+    .bike-text {
+        padding-left: 6px;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 15px;
+    }
+    .text-center {
+        padding-left: 0px;
+    }
+    .footer-up .location {
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .footer-up ul li {
+        margin-bottom: 14px;
+    }
+    .footer-up ul li a {
+        font-size: 13px;
+    }
+    .footer-up p {
+        font-size: 11.5px;
+    }
+
+    /* sign in  */
+
+    .motor-bike .main {
+        padding-top: 0px;
+    }
+    .prime-shope-area .sing-area {
+        top: 256px;
+    }
+    .prime-shope-area .sing-area form {
+        width: 55%;
+    }
+    .prime-shope-area .sing-area form input {
+        padding-right: 78px;
+    }
+
+    /* sign-up */
+
+    .prime-shope-area .sign-up-account h3 {
+        font-size: 19px;
+    }
+    
+}
+
+
+
+
+@media screen and (max-width: 978px) {
+
+    .hot-deals .row {
+        justify-content: center;
+        gap: 20px;
+    }
+    #AutoMotive_Motorbike .col-1-6 {
+        flex-basis: 25%;
+        margin-top: 20px;
+    }
+    .hot-deals .char {
+        top: -10px;
+    }
+    .bike-text {
+        padding-left: 20px;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 20px;
+    }
+    #Grocery  .col-1-6 {
+        flex-basis: 25%;
+    }
+    .text-center {
+        padding-left: 0px;
+    }
+    .safwa-font p {
+        font-size: 16px;
+    }
+
+    .display-after .col-1-6 {
+        flex-basis: 20%;
+    }
+    .display-after .col-1-6 {
+        flex-basis: 20%;
+    }
+    .display-after p {
+        font-size: 16px;
+    }
+    .footer-up .col-1-5 {
+        flex-basis: 32%;
+        margin-bottom: 60px;
+    }
+    
+    /* sign in  */
+
+    .prime-shope-area .sing-area {
+        left: 180px;
+    }
+    .prime-shope-area .sing-area form input {
+        padding-right: 22px;
+    }
+
+    /* otp send */
+
+    .prime-shope-area .otp-send .continue-select input {
+        padding-right: 10px;
+        font-size: 14px;
+    }
+    .prime-shope-area .otp-send .otp-form {
+        width: 61%;
+    }
+
+    /* continue */
+
+    .prime-shope-area .continue p {
+        font-size: 15px;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width: 820px) {
+    .header .row {
+        gap: 10px;
+    }
+    .header .up-col {
+        flex-basis: 100%;
+        justify-content: space-between;
+    }
+    .hero .input {
+        flex-basis: 100%;
+    }
+    .hero .left-in {
+        padding: 10px;
+    }
+    .hero .fa-angle-down {
+        margin-left: 5px;
+    }
+    .hero .cart-man {
+        top: -10%;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 16px;
+    }
+    .safwana .col-1-7 {
+        flex-basis: 25%;
+    }
+    .display-after .col-1-6 {
+        flex-basis: 25%;
+    }
+    .footer-up .extra-flex {
+        flex-basis: 100%;
+        text-align: center;
+    }
+    .footer-up .col-1-5 .up-logo img {
+        width: 25%;
+    }
+    .footer-up .social-media {
+        margin-top: 15px;
+        justify-content: center;
+    }
+    .auto-ride {
+        width: 100%;
+        margin: auto;
+    }
+
+    /* sign in */
+
+    .motor-bike .blog-left {
+        padding-top: 10px;
+    }
+    .prime-shope-area .sing-area {
+        top: 377px;
+        left: 160px;
+    }
+    .prime-shope-area .sing-area form a img {
+        margin-bottom: 30px;
+        width: 85%;
+    }
+    .prime-shope-area .sing-area form {
+        width: 60%;
+    }
+    .prime-shope-area .sing-area form input {
+        padding-right: 4px;
+    }
+
+    /* otp send */
+
+    .prime-shope-area .otp-send .otp-form {
+        width: 70%;
+    }
+
+    /* continue */
+
+    .prime-shope-area .otp-send .verification h4 {
+        font-size: 19px;
+    }
+    .prime-shope-area .continue p {
+        font-size: 14.8px;
+    }
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 700px) {
+
+    .main-up .cetago, .main-up nav, .main .blog-left {
+        flex-basis: 100%;
+    }
+    .main-up nav ul li {
+        margin-right: 20px;
+    }
+    .main .blog-middle .row {
+        width: 100%;
+    }
+    .main .blog-middle .row .col-1-4 {
+        flex-basis: 20%;
+    }
+    .blog-middle .col-1-4 p {
+        font-size: 12px;
+        margin-top: 12px;
+    }
+
+    .left-side h3 {
+        font-size: 20px;
+    }
+    .left-side .time {
+        gap: 2px;
+    }
+    .left-side .time p {
+        font-size: 14px;
+        margin-right: 3px;
+    }
+    .left-side .time .tim {
+        font-size: 12px;
+    }
+
+    .right-side p {
+        font-size: 14px;
+    }
+    .right-side .fa-angle-right {
+        margin-left: 5px;
+    }
+    .bike-text {
+        padding-left: 15px;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 14px;
+    }
+    .text-center {
+        padding-left: 0px;
+    }
+
+    /* sign in */
+
+    .prime-shope-area .sing-area {
+        left: 135px;
+        width: 65%;
+    }
+    .prime-shope-area .sing-area form {
+        width: 70%;
+    }
+    .prime-shope-area .sing-area {
+        padding-bottom: 20px;
+    }
+
+    /* otp send */
+
+    .prime-shope-area .otp-send .otp-form {
+        width: 73%;
+    }
+    .prime-shope-area .otp-send p {
+        font-size: 14px;
+        line-height: 22px;
+        margin: 10px 0px;
+    }
+    .prime-shope-area .otp-send form .btn-sign a {
+        font-size: 18px;
+    }
+
+    /* continue */
+
+    .prime-shope-area .continue .verification {
+        padding: 10px 5px;
+    }
+    .prime-shope-area .continue .verification h4 {
+        font-size: 18px;
+    }
+    .prime-shope-area .otp-send .continue-select select {
+        padding: 10px 2px 10px 20px;
+        font-size: 14px;
+    }
+    .prime-shope-area .otp-send .continue-select input {
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+    .prime-shope-area .continue p {
+        font-size: 13.2px;
+    }
+
+    /* sign-up */
+
+    .prime-shope-area .sign-up-account h3 {
+        font-size: 17px;
+    }
+        
+
+}
+
+
+
+
+@media screen and (max-width: 580px) {
+    .hot-deals .char {
+        font-size: 13px;
+        width: 50%;
+        top: -22px;
+    }
+    .bike-text {
+        padding-left: 5px;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 12px;
+    }
+    .bike-text .fst-bike {
+        padding: 5px 0px;
+    }
+    #AutoMotive_Motorbike .col-1-6  {
+        padding: 5px;
+    }
+    .lft-arrow {
+        top: 55px;
+        left: -25px;
+    }
+    .rght-arrow {
+        top: 55px;
+        right: -28px;
+    }
+    .text-center {
+        padding-left: 0px;
+    }
+    .col-1-7 span {
+        font-size: 14px;
+    }
+    
+    /* sign in */
+
+    .prime-shope-area .sing-area {
+        left: 70px;
+        width: 72%;
+    }
+    .prime-shope-area .sing-area form {
+        width: 82%;
+    }
+
+    /* otp send */
+
+    .prime-shope-area .otp-send .otp-form {
+        padding: 50px 5px;
+    }
+    .prime-shope-area .otp-send .otp-form {
+        width: 85%;
+    }
+
+    /* continue */
+
+    .prime-shope-area .otp-send p {
+        font-size: 13.2px;
+    }
+
+    .footer-up .footer-down {
+        display: none;
+    }
+}
+
+
+
+
+@media screen and (max-width: 448px) {
+
+    .header .up-col {
+        flex-basis: 100%;
+        justify-content: space-between;
+        gap: 5px;
+    }
+    .header .up-col span {
+        font-size: 9px;
+    }
+    .header .up-col .fa-clock-o {
+        display: none;
+    }
+
+    .hero .cart-man {
+        gap: 15px;
+    }
+    .hero .cart-man img {
+        width: 90%;
+    }
+    .hero .logo {
+        flex-basis: 50%;
+    }
+    .hero .logo img {
+        width: 100%;
+    }
+    .hero .left-in {
+        padding-right: 6px;
+    }
+    .hero .input input {
+        font-size: 12px;
+        width: 61%;
+    }
+    .hero .input span {
+        font-size: 12px;
+    }
+    .hero .fa-angle-down {
+        margin-left: 3px;
+    }
+    .main-up nav ul li {
+        margin-right: 10px;
+    }
+    .main-up nav ul li a {
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+    .main .blog-middle .row {
+        gap: 5px;
+    }
+    .blog-middle .col-1-4 p {
+        font-size: 9px;
+        margin-top: 6px;
+    }
+    .blog-middle .col-1-4 img {
+        padding: 0px;
+      }
+    .left-side .time {
+        gap: 0px;
+    }
+    .left-side .time p {
+        font-size: 11px;
+    }
+    .left-side .time .tim {
+        font-size: 10px;
+    }
+    .right-side p {
+        font-size: 12px;
+    }
+    #AutoMotive_Motorbike .col-1-6 {
+        flex-basis: 40%;
+    }
+    .hot-deals .char {
+        width: 40%;
+    }
+    .bike-text {
+        padding-left: 15px;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 15px;
+    }
+    .lft-arrow {
+        top: 88px;
+        left: -11px;
+    }
+    .rght-arrow {
+        top: 88px;
+        right: -11px;
+    }
+    .text-center {
+        padding-left: 0px;
+    }
+    #Grocery  .col-1-6 {
+        flex-basis: 40%;
+    }
+    .safwana .col-1-7 {
+        flex-basis: 40%;
+    }
+    .prime-dis-none {
+        display: none;
+    }
+    .display-after .col-1-6 {
+        flex-basis: 40%;
+    }
+
+    .footer-up .col-1-5 .up-logo img {
+        width: 60%;
+    }
+
+    .footer-up .location {
+        font-size: 8.9px;
+        line-height: 15px;
+    }
+    .footer-up ul li {
+        margin-bottom: 5px;
+    }
+    .footer-up ul li a {
+        font-size: 10px;
+    }
+    .footer-up h4 {
+        font-size: 14px;
+        margin-bottom: 14PX;
+    }
+
+    /* sign in */
+
+    .prime-shope-area .sing-area {
+        top: 355px;
+        left: 15px;
+        width: 92%;
+    }
+    .prime-shope-area .sing-area form {
+        padding: 50px 5px;
+    }
+    .prime-shope-area .sing-area form input {
+        padding: 13px 20px 13px 6px;
+    }
+
+    /* otp send */
+
+    .prime-shope-area .otp-send {
+        width: 93%;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 364px)  {
+    .main-up nav ul li a {
+        font-size: 10px;
+        letter-spacing: 0px;
+    }
+
+    .two-side {
+        width: 95%;
+    }
+    .right-side {
+        flex-basis: 24%;
+    }
+    .bike-text {
+        padding-left: 5px;
+    }
+    .bike-text p, .bike-text .fst-bike, .bike-text del {
+        font-size: 14px;
+    }
+    .text-center {
+        padding-left: 0px;
+    }
+    .footer-up .location {
+        font-size: 7.8px;
+    }
+    .footer-up ul li a {
+        font-size: 9px;
+    }
+    .footer-up ul li {
+        margin-bottom: 3px;
+    }
+    .footer-up .footer-down {
+        display: none;
+    }
+
+    /* sign in */
+    .prime-shope-area .sing-area {
+        top: 345px;
+        left: 11px;
+        width: 94%;
+    }
+    .prime-shope-area .sing-area form {
+        width: 80%;
+    }
+    .prime-shope-area .sing-area form input {
+        font-size: 14px;
+        padding-right: 5px;
+    }
+    .prime-shope-area .sing-area form .btn-sign a {
+        font-size: 16px;
+    }
+
+    /* otp send */
+
+    .prime-shope-area .otp-send p {
+        font-size: 12.2px;
+    }
+    .prime-shope-area .otp-send form .btn-sign a {
+        font-size: 15px;
+    }
+
+    /* continue */
+
+    .prime-shope-area .otp-send .verification {
+        gap: 12px;
+    }
+    .prime-shope-area .otp-send .verification h4 {
+        font-size: 16px;
+    }
+    .prime-shope-area .otp-send .continue-select select {
+        padding-left: 15px;
+    }
+
+    /* sign-up */
+
+    .prime-shope-area .sign-up-account h3 {
+        font-size: 15px;
+    }
+    .prime-shope-area .sign-up-account .uper-p {
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
